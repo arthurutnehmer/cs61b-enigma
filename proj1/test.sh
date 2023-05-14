@@ -1,0 +1,1 @@
+java -ea enigma.Main --verbose  /home/arthur/repo/proj1/testing/test.conf  /home/arthur/repo/proj1/testing/test.in
