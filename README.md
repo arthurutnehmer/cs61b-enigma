@@ -24,3 +24,5 @@ To run the program on the command line, use the command:
 
 ```shell
 java -ea enigma.Main [configuration file] [input file] [output file]
+
+https://inst.eecs.berkeley.edu/~cs61b/fa18/materials/proj/proj1/index.html
