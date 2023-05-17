@@ -1,5 +1,5 @@
 # cs61b-enigma
-Enigma Simulator Project
+### Enigma Simulator Project
 This project involves the development of an Enigma machine simulator. The Enigma machine is a cipher device used by the Germans during World War II for the encryption and decryption of secret messages. This simulator will accept a set of rotors, a configuration, and an input message to provide an encoded or decoded output.
 
 Project Description
