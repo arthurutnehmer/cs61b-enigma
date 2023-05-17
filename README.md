@@ -1,4 +1,5 @@
 # Enigma Simulator Project
+https://inst.eecs.berkeley.edu/~cs61b/fa18/materials/proj/proj1/index.html
 
 This project involves the development of an Enigma machine simulator. The Enigma machine is a cipher device used by the Germans during World War II for the encryption and decryption of secret messages. This simulator will accept a set of rotors, a configuration, and an input message to provide an encoded or decoded output.
 
@@ -25,4 +26,3 @@ To run the program on the command line, use the command:
 ```shell
 java -ea enigma.Main [configuration file] [input file] [output file]
 
-https://inst.eecs.berkeley.edu/~cs61b/fa18/materials/proj/proj1/index.html
